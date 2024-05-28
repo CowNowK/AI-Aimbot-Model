@@ -10,5 +10,6 @@ Aimbot model for YOLO AI aimbot
 - CrossingFire
 - Valorant
 - The Finals
+- PUBG
 
-> Apex英雄、卡拉比丘、守望先锋、穿越火线、瓦罗兰特、最终决战
+> Apex英雄、卡拉比丘、守望先锋、穿越火线、瓦罗兰特、最终决战、绝地求生
