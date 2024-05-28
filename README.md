@@ -4,7 +4,7 @@ Aimbot model for YOLO AI aimbot
 >
 > 🍀 Or are you too lazy to train the model?
 >
-> 🍀 I trained some model myself and collected model online then uploaded to this repo. Hope can help you.
+> 🍀 I will upload all the models I collected to this repo, hoping to help you!
 
 > 用于AI自瞄的YOLO模型
 
