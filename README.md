@@ -7,5 +7,6 @@ Aimbot model for YOLO AI aimbot
 - Apex Legends
 - Strinova
 - Overwatch
+- CrossingFire
 
-> Apex英雄、卡拉比丘、守望先锋
+> Apex英雄、卡拉比丘、守望先锋、穿越火线
