@@ -1,9 +1,14 @@
-# AI-Aimbot-Model
+# 🔍 AI-Aimbot-Model
 Aimbot model for YOLO AI aimbot
+> 🍀 Still looking for a good model?
+>
+> 🍀 Or are you too lazy to train the model?
+>
+> 🍀 I uploaded my trained high-quality model in this repo. Hope can help you.
 
 > 用于AI自瞄的YOLO模型
 
-# Games
+# 🎮 Games
 - Apex Legends
 - Strinova
 - Overwatch
